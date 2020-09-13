@@ -8,6 +8,6 @@
 [![Website Badge](https://img.shields.io/badge/-ritaleitao.pt-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.ritaleitao.pt)](https://www.ritaleitao.pt)
 [![Gmail Badge](https://img.shields.io/badge/-ritaleitao4-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ritaleitao4@gmail.com)](mailto:ritaleitao4@gmail.com)
 
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs?username=ritaaleitao4&show_icons=true&layout=compact&langs_count=8">
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs?username=ritaaleitao4&show_icons=true&layout=compact&langs_count=8">
 
 </div>
