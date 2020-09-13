@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### Hi there 👋 I'm Rita Leitão and I love coding! :nerd_face:
+### Hi there 👋 I'm Rita Leitão and I love coding! :nerd_face::heart:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ritaleitão-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritaleitão/)](https://www.linkedin.com/in/ritaleitão/)
 [![Website Badge](https://img.shields.io/badge/-ritaleitao.pt-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.ritaleitao.pt)](https://www.ritaleitao.pt)
