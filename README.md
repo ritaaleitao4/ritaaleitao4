@@ -1,3 +1,5 @@
+![About Me](https://github.com/ritaaleitao4/ritaaleitao4/blob/master/intro.gif)
+
 ### Hi there 👋 I'm Rita Leitão and I love coding! :nerd_face:
 
 :mag_right: How to reach me: [GitHub](https://github.com/ritaaleitao4) | [LinkedIn](https://www.linkedin.com/in/ritaleitão/) | [Website](https://www.ritaleitao.pt)
