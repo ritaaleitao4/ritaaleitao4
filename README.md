@@ -5,7 +5,7 @@
 ### Hi there 👋 I'm Rita Leitão and I love coding! :nerd_face::heart:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ritaleitão-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritaleitão/)](https://www.linkedin.com/in/ritaleitão/)
-[![Website Badge](https://img.shields.io/badge/-ritaleitao.pt-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.ritaleitao.pt)](https://www.ritaleitao.pt)
+[![Website Badge](https://img.shields.io/badge/-ritaleitao-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=http://ritaleitao.netlify.com)](http://ritaleitao.netlify.com)
 [![Gmail Badge](https://img.shields.io/badge/-ritaleitao4-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ritaleitao4@gmail.com)](mailto:ritaleitao4@gmail.com)
 
 #### My Tech Stack
